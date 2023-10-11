@@ -1,8 +1,8 @@
-import challenges.obedient_cat
+import challenges.mod_26
 
 
 def main():
-    print(challenges.obedient_cat.ObedientCat().solve())
+    print(challenges.mod_26.Mod26().solve())
 
 
 if __name__ == "__main__":
